@@ -26,7 +26,7 @@
 | Дата | Тема | ДЗ |
 |------|------|----| 
 | 6 сентября | [Вводная часть.](1_git_jupyter_basic_operations/01_why_python.pdf) [Командная строка.](https://pykili.github.io/prog/2022/anton/sem2) [Базовые операции в питоне.](https://pykili.github.io/prog/2022/anton/sem4) | [ДЗ1.](1_git_jupyter_basic_operations/homework1.ipynb) Дедлайн 14 сентября 23:59|
-| 13 сентября | Типы данных в питоне и операции с ними. [Презентация от ВК про основы питона](2_basic_python/lesson-01.pdf), [конспект с пары](https://colab.research.google.com/drive/1RBkGtqyWNv-7AtZlX7dDv9sMpZVSGajL?usp=sharing), [задачи на пару](https://colab.research.google.com/drive/1WyxY461MK8uPaj3FACJli5d2z7yKGBxy?usp=sharing) | ДЗ2 |
+| 13 сентября | Типы данных в питоне и операции с ними. [Презентация от ВК про основы питона](2_basic_python/lesson-01.pdf), [конспект с пары](https://colab.research.google.com/drive/1RBkGtqyWNv-7AtZlX7dDv9sMpZVSGajL?usp=sharing), [задачи на пару](https://colab.research.google.com/drive/1WyxY461MK8uPaj3FACJli5d2z7yKGBxy?usp=sharing) | [ДЗ2](2_basic_python/homework2.ipynb), дедлайн 21 сентября 23:59 |
 | 20 сентября | Пространство имен, функции, декораторы. | |
 | 27 сентября | ООП, классы | |
 | 4 октября | ООП, продолжение| |
