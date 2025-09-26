@@ -28,11 +28,11 @@
 | 6 сентября | [Вводная часть.](1_git_jupyter_basic_operations/01_why_python.pdf) [Командная строка.](https://pykili.github.io/prog/2022/anton/sem2) [Базовые операции в питоне.](https://pykili.github.io/prog/2022/anton/sem4) | [ДЗ1.](1_git_jupyter_basic_operations/homework1.ipynb) Дедлайн 14 сентября 23:59|
 | 13 сентября | Типы данных в питоне и операции с ними. [Презентация от ВК про основы питона](2_basic_python/lesson-01.pdf), [конспект с пары](https://colab.research.google.com/drive/1RBkGtqyWNv-7AtZlX7dDv9sMpZVSGajL?usp=sharing), [задачи на пару](https://colab.research.google.com/drive/1WyxY461MK8uPaj3FACJli5d2z7yKGBxy?usp=sharing) | [ДЗ2](2_basic_python/homework2.ipynb), дедлайн 21 сентября 23:59 |
 | 20 сентября | Функции [конспект](https://colab.research.google.com/drive/1URwn51LAXUJXJMxqnpCLWpNaAzrexmsy?usp=sharing), еще немного о функциях [конспект](https://colab.research.google.com/drive/14NsOQDpFLBMsmK61Nfux7KV0vG_qG0jI?usp=sharing). Декораторы [конспект](https://colab.research.google.com/drive/1ncIF1Me1NMhpq1abiC6jYRJ08yxsY1Vh?usp=sharing). [Задачки](https://colab.research.google.com/drive/1g9UG_HSWMeO_tCr18D2E3oaIMAkSeWIa?usp=sharing) | [ДЗ3](https://colab.research.google.com/drive/1Z-a-1NDK6m8LVFWRpz6vYIl2IWk7OGdH?usp=sharing), дедлайн 28 сентября 23:59|
-| 27 сентября | ООП, классы | |
-| 4 октября | ООП, продолжение| |
-| 11 октября | КАНИКУЛЫ | |
+| 27 сентября | [Регулярные выражения.](4_regexp/conspect_regexp.ipynb). [Тренировка в Яндекс.Контесте](https://contest.yandex.ru/contest/82122/enter)| ДЗ4 |
+| 4 октября | ООП, классы | |
+| 11 октября | ООП, продолжение| |
 | 18 октября | КР1 | |
-| 25 октября | Работа со строками, регулярные выражения. | |
+| 25 октября |  | |
 | 1 ноября | Парсинг сайтов. Requests, beautiful soup, playwright | |
 | 8 ноября | Исключения, тестирование | |
 | 15 ноября | Numpy | |
