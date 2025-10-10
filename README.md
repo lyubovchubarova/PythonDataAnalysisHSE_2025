@@ -28,16 +28,23 @@
 | 20 сентября | Функции [конспект](https://colab.research.google.com/drive/1URwn51LAXUJXJMxqnpCLWpNaAzrexmsy?usp=sharing), еще немного о функциях [конспект](https://colab.research.google.com/drive/14NsOQDpFLBMsmK61Nfux7KV0vG_qG0jI?usp=sharing). Декораторы [конспект](https://colab.research.google.com/drive/1ncIF1Me1NMhpq1abiC6jYRJ08yxsY1Vh?usp=sharing). [Задачки](https://colab.research.google.com/drive/1g9UG_HSWMeO_tCr18D2E3oaIMAkSeWIa?usp=sharing) | [ДЗ3](https://colab.research.google.com/drive/1Z-a-1NDK6m8LVFWRpz6vYIl2IWk7OGdH?usp=sharing), дедлайн 28 сентября 23:59|
 | 27 сентября | [Регулярные выражения.](4_regexp/conspect_regexp.ipynb). [Тренировка в Яндекс.Контесте](https://contest.yandex.ru/contest/82122/enter), [решение задач оттуда](4_regexp/class_solutions.ipynb)| [ДЗ4](https://contest.yandex.ru/contest/82172/enter), дедлайн 5 октября 23:59 |
 | 4 октября | ООП, классы, базовые понятия ([конспект](5_classes/classes.ipynb)). [Конспект с прошлого года](5_classes/old_conspect.ipynb). [Семинар по ООП](https://colab.research.google.com/drive/17zWstgqSW20gwwUOJ7PYaPSeEJ1xb5Tx?usp=sharing) | [ДЗ5](5_classes/hw5.ipynb), дедлайн 16 октября 23:59|
-| 11 октября | ООП, основные принципы. Подготовка к КР. | |
-| 18 октября | КР1 | |
-| 25 октября | КАНИКУЛЫ🥳 | |
-| 1 ноября | Парсинг сайтов. Requests, beautiful soup, playwright | |
-| 8 ноября | Исключения, тестирование | |
+| 11 октября | [Расширенные возможности классов. Основные принципы ООП.](6_classes_extended/conspect.ipynb) [Старый конспект.](6_classes_extended/02.ipynb) [Задачи на семинар](https://colab.research.google.com/drive/1ga9DOdfqyfAFs6zS7u5WS-WYEmMc0Oyd?usp=sharing) | |
+| 18 октября |   | |
+| 25 октября | Исключения, тестирование | |
+| 1 ноября | КАНИКУЛЫ🥳  | |
+| 8 ноября | | |
 | 15 ноября | Numpy | |
-| 22 ноября | Pandas | |
+| 22 ноября |  | |
 | 29 ноября |   | |
 | 6 декабря | Matplotlib, seaborn | |
-| 13 декабря | Seaborn | |
+| 13 декабря | | |
 | 20 декабря | -| |
 | 27 декабря | - | |
 
+["259e0bde4cf8f3c279e6f9a3621ed58d",
+"9cd2b66542cf84937ab60b68c019801b",
+"c918cb01c723a2f4b52420e933cae4ae",
+"564f63666e3890e7e8cbb5e18776e21b",
+"09904b233dd4108c591780be08a64880",
+"f6a76f5be2ed02fbd6af39650ea3a297"
+]
