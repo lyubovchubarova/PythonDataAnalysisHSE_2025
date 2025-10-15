@@ -28,9 +28,9 @@
 | 20 сентября | Функции [конспект](https://colab.research.google.com/drive/1URwn51LAXUJXJMxqnpCLWpNaAzrexmsy?usp=sharing), еще немного о функциях [конспект](https://colab.research.google.com/drive/14NsOQDpFLBMsmK61Nfux7KV0vG_qG0jI?usp=sharing). Декораторы [конспект](https://colab.research.google.com/drive/1ncIF1Me1NMhpq1abiC6jYRJ08yxsY1Vh?usp=sharing). [Задачки](https://colab.research.google.com/drive/1g9UG_HSWMeO_tCr18D2E3oaIMAkSeWIa?usp=sharing) | [ДЗ3](https://colab.research.google.com/drive/1Z-a-1NDK6m8LVFWRpz6vYIl2IWk7OGdH?usp=sharing), дедлайн 28 сентября 23:59|
 | 27 сентября | [Регулярные выражения.](4_regexp/conspect_regexp.ipynb). [Тренировка в Яндекс.Контесте](https://contest.yandex.ru/contest/82122/enter), [решение задач оттуда](4_regexp/class_solutions.ipynb)| [ДЗ4](https://contest.yandex.ru/contest/82172/enter), дедлайн 5 октября 23:59 |
 | 4 октября | ООП, классы, базовые понятия ([конспект](5_classes/classes.ipynb)). [Конспект с прошлого года](5_classes/old_conspect.ipynb). [Семинар по ООП](https://colab.research.google.com/drive/17zWstgqSW20gwwUOJ7PYaPSeEJ1xb5Tx?usp=sharing) | [ДЗ5](5_classes/hw5.ipynb), дедлайн 16 октября 23:59|
-| 11 октября | [Расширенные возможности классов. Основные принципы ООП.](6_classes_extended/conspect.ipynb) [Старый конспект.](6_classes_extended/02.ipynb) [Задачи на семинар](https://colab.research.google.com/drive/1ga9DOdfqyfAFs6zS7u5WS-WYEmMc0Oyd?usp=sharing) | |
-| 18 октября |   | |
-| 25 октября | Исключения, тестирование | |
+| 11 октября | [Расширенные возможности классов. Основные принципы ООП.](6_classes_extended/conspect.ipynb) [Старый конспект.](6_classes_extended/02.ipynb) [Задачи на семинар](https://colab.research.google.com/drive/1ga9DOdfqyfAFs6zS7u5WS-WYEmMc0Oyd?usp=sharing) | [ДЗ6: крестики-нолики](6_classes_extended/homework.ipynb), дедлайн 26 октября 23:59  |
+| 18 октября | Исключения, тестирование. Подготовка к КР  | |
+| 25 октября |  | |
 | 1 ноября | КАНИКУЛЫ🥳  | |
 | 8 ноября | | |
 | 15 ноября | Numpy | |
