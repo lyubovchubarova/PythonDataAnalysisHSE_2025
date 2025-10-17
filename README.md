@@ -29,8 +29,8 @@
 | 27 сентября | [Регулярные выражения.](4_regexp/conspect_regexp.ipynb). [Тренировка в Яндекс.Контесте](https://contest.yandex.ru/contest/82122/enter), [решение задач оттуда](4_regexp/class_solutions.ipynb)| [ДЗ4](https://contest.yandex.ru/contest/82172/enter), дедлайн 5 октября 23:59 |
 | 4 октября | ООП, классы, базовые понятия ([конспект](5_classes/classes.ipynb)). [Конспект с прошлого года](5_classes/old_conspect.ipynb). [Семинар по ООП](https://colab.research.google.com/drive/17zWstgqSW20gwwUOJ7PYaPSeEJ1xb5Tx?usp=sharing) | [ДЗ5](5_classes/hw5.ipynb), дедлайн 16 октября 23:59|
 | 11 октября | [Расширенные возможности классов. Основные принципы ООП.](6_classes_extended/conspect.ipynb) [Старый конспект.](6_classes_extended/02.ipynb) [Задачи на семинар](https://colab.research.google.com/drive/1ga9DOdfqyfAFs6zS7u5WS-WYEmMc0Oyd?usp=sharing) | [ДЗ6: крестики-нолики](6_classes_extended/homework.ipynb), дедлайн 26 октября 23:59  |
-| 18 октября | Исключения, тестирование. Подготовка к КР  | |
-| 25 октября |  | |
+| 18 октября | Продолжение про классы (см предыдущие конспекты). Исключения. [Конспект](7_exceptions_testing/exceptions_notes.ipynb), [семинар](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing). [Подготовка к КР.](https://contest.yandex.ru/contest/83387/enter/)  | НЕТ ДЗ |
+| 25 октября | Контрольная работа | |
 | 1 ноября | КАНИКУЛЫ🥳  | |
 | 8 ноября | | |
 | 15 ноября | Numpy | |
@@ -40,11 +40,3 @@
 | 13 декабря | | |
 | 20 декабря | -| |
 | 27 декабря | - | |
-
-["259e0bde4cf8f3c279e6f9a3621ed58d",
-"9cd2b66542cf84937ab60b68c019801b",
-"c918cb01c723a2f4b52420e933cae4ae",
-"564f63666e3890e7e8cbb5e18776e21b",
-"09904b233dd4108c591780be08a64880",
-"f6a76f5be2ed02fbd6af39650ea3a297"
-]
