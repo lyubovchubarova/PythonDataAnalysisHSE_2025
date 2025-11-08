@@ -32,11 +32,11 @@
 | 18 октября | ЗАНЯТИЙ НЕ БЫЛО, НО ВОТ ЧТО ПЛАНИРОВАЛОСЬ: Продолжение про классы (см предыдущие конспекты). Исключения. [Конспект](7_exceptions_testing/exceptions_notes.ipynb), [семинар](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing).   | ДЗ - [Подготовка к КР, 5 баллов максимум](https://contest.yandex.ru/contest/83387/enter/), дедлайн 24 октября 23:59 |
 | 25 октября | [Контрольная работа](https://contest.yandex.ru/contest/83880/enter) | |
 | 1 ноября | КАНИКУЛЫ🥳  | |
-| 8 ноября | | |
-| 15 ноября | Numpy | |
-| 22 ноября |  | |
-| 29 ноября |   | |
-| 6 декабря | Matplotlib, seaborn | |
-| 13 декабря | | |
+| 8 ноября | Исключения и обработка ошибок: [конспект](7_exceptions/exceptions_notes.ipynb), задачи(https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing). Модуль requests: [конспект](8_requests/requests.ipynb), [задачи](https://colab.research.google.com/drive/1ut6OQ4-kd0vvK0tvV0ZXaCw0vAD8bMym?usp=sharing) | |
+| 15 ноября | Pandas, базовые методы | |
+| 22 ноября | Pandas, практикум | |
+| 29 ноября | Визуализация данных  | |
+| 6 декабря | Базовые методы проверки гипотез | |
+| 13 декабря | Хакатон в формате DANO | |
 | 20 декабря | -| |
 | 27 декабря | - | |
