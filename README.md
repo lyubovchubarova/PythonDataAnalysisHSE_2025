@@ -33,7 +33,7 @@
 | 25 октября | [Контрольная работа](https://contest.yandex.ru/contest/83880/enter) | |
 | 1 ноября | КАНИКУЛЫ🥳  | |
 | 8 ноября | Исключения и обработка ошибок: [конспект](7_exceptions/exceptions_notes.ipynb), [задачи](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing). Модуль requests: [конспект](8_requests/requests.ipynb), [задачи](https://colab.research.google.com/drive/1ut6OQ4-kd0vvK0tvV0ZXaCw0vAD8bMym?usp=sharing) | [ДЗ7: парсинг](8_requests/requests_hw.ipynb), **дедлайн 24 ноября 23:59** |
-| 15 ноября | Pandas, базовые методы | |
+| 15 ноября | Pandas, базовые методы. [Конспект.](https://colab.research.google.com/drive/1fKt8PI6kBuYc1lRyzfvn7YL6LxRp4yj_?usp=sharing) [Семинар.](https://colab.research.google.com/drive/1SvyZPaHiGWwLDP0tUP0o-0gREGJlSKjF?usp=sharing) | |
 | 22 ноября | Pandas, практикум | |
 | 29 ноября | Визуализация данных  | |
 | 6 декабря | Базовые методы проверки гипотез | |
