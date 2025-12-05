@@ -32,11 +32,11 @@
 | 18 октября | ЗАНЯТИЙ НЕ БЫЛО, НО ВОТ ЧТО ПЛАНИРОВАЛОСЬ: Продолжение про классы (см предыдущие конспекты). Исключения. [Конспект](7_exceptions_testing/exceptions_notes.ipynb), [семинар](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing).   | ДЗ - [Подготовка к КР, 5 баллов максимум](https://contest.yandex.ru/contest/83387/enter/), дедлайн 24 октября 23:59 |
 | 25 октября | [Контрольная работа](https://contest.yandex.ru/contest/83880/enter) | |
 | 1 ноября | КАНИКУЛЫ🥳  | |
-| 8 ноября | Исключения и обработка ошибок: [конспект](7_exceptions/exceptions_notes.ipynb), [задачи](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing). Модуль requests: [конспект](8_requests/requests.ipynb), [задачи](https://colab.research.google.com/drive/1ut6OQ4-kd0vvK0tvV0ZXaCw0vAD8bMym?usp=sharing) | [ДЗ7: парсинг](8_requests/requests_hw.ipynb), **дедлайн 24 ноября 23:59** |
+| 8 ноября | Исключения и обработка ошибок: [конспект](7_exceptions/exceptions_notes.ipynb), [задачи](https://colab.research.google.com/drive/1TPcmTpYqrM0iE_cgfusqLFXw6hNA0xU1?usp=sharing). Модуль requests: [конспект](8_requests/requests.ipynb), [задачи](https://colab.research.google.com/drive/1ut6OQ4-kd0vvK0tvV0ZXaCw0vAD8bMym?usp=sharing) | [ДЗ7: парсинг](8_requests/requests_hw.ipynb), дедлайн **24 ноября 23:59** |
 | 15 ноября | Pandas, базовые методы. [Конспект.](https://colab.research.google.com/drive/1fKt8PI6kBuYc1lRyzfvn7YL6LxRp4yj_?usp=sharing) [Семинар.](https://colab.research.google.com/drive/1SvyZPaHiGWwLDP0tUP0o-0gREGJlSKjF?usp=sharing) | |
-| 22 ноября | Pandas, практикум | |
-| 29 ноября | Визуализация данных  | |
-| 6 декабря | Базовые методы проверки гипотез | |
+| 22 ноября | - | |
+| 29 ноября | Pandas и немного статистики. [Конспект.](10_extrapandas/notes.ipynb) [Практикум.](https://colab.research.google.com/drive/1_RlRXckBcg-tnDf3MsZY9iOY2HaBu7rh?usp=sharing)| [ДЗ8: работа с данными](10_extrapandas/hw_pandas.ipynb), дедлайн **12 декабря 23:59** |
+| 6 декабря | Визуализация данных. [Новый конспект matplotlib + seaborn](https://colab.research.google.com/drive/1CNtrTqAfPflNrqxqzj3S_WcTaLUaKsly?usp=sharing), [хороший конспект с ИАДа ВШЭ по matplotlib](https://github.com/lyubovchubarova/DataAnalysis_HSE/blob/main/visualisation/matplotlib_notes.ipynb), [конспект по seaborn](https://github.com/lyubovchubarova/DataAnalysis_HSE/blob/main/visualisation/seaborn_notes.ipynb).   | [ДЗ9: визуализации](11_visualisation/hw_visualisation.ipynb), дедлайн **19 декабря 23:59**  |
 | 13 декабря | Хакатон в формате DANO | |
 | 20 декабря | -| |
 | 27 декабря | - | |
