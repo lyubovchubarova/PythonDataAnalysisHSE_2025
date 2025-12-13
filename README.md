@@ -37,6 +37,6 @@
 | 22 ноября | - | |
 | 29 ноября | Pandas и немного статистики. [Конспект.](10_extrapandas/notes.ipynb) [Практикум.](https://colab.research.google.com/drive/1_RlRXckBcg-tnDf3MsZY9iOY2HaBu7rh?usp=sharing)| [ДЗ8: работа с данными](10_extrapandas/hw_pandas.ipynb), дедлайн **12 декабря 23:59** |
 | 6 декабря | Визуализация данных. [Новый конспект matplotlib + seaborn](https://colab.research.google.com/drive/1CNtrTqAfPflNrqxqzj3S_WcTaLUaKsly?usp=sharing), [хороший конспект с ИАДа ВШЭ по matplotlib](https://github.com/lyubovchubarova/DataAnalysis_HSE/blob/main/visualisation/matplotlib_notes.ipynb), [конспект по seaborn](https://github.com/lyubovchubarova/DataAnalysis_HSE/blob/main/visualisation/seaborn_notes.ipynb). [СЕМИНАР](https://colab.research.google.com/drive/1CTVMMYVoUsZ9FsO6OsbzGZEXvCvEtJ5o?usp=sharing)  | [ДЗ9: визуализации](11_visualisation/hw_visualisation.ipynb), дедлайн **19 декабря 23:59**  |
-| 13 декабря | Хакатон в формате DANO | |
+| 13 декабря | [Хакатон в формате DANO. Правила и данные](HACKATON.md) | |
 | 20 декабря | -| |
 | 27 декабря | - | |
